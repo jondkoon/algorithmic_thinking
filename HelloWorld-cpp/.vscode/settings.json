@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.p8": "lua",
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp"
+  }
+}
